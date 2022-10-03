@@ -5,6 +5,11 @@
 #include <QObject>
 #include <QWidget>
 #include <QtXml>
+
+
+#include <QtSql>
+#include <QDebug>
+#include <QCoreApplication>
 #include "sqlpraceropid.h"
 
 class XmlRopidImportDom: public QObject

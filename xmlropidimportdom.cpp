@@ -1,10 +1,5 @@
-#include <QtSql>
-#include "XmlRopidImportDom.h"
+#include "xmlropidimportdom.h"
 
-#include <QtXml>
-#include <QDebug>
-#include <QMainWindow>
-#include <QCoreApplication>
 
 
 XmlRopidImportDom::XmlRopidImportDom()
